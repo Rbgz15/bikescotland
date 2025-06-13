@@ -1,0 +1,47 @@
+body{
+    background-color:cadetblue;
+    text-align: center;
+    color:darkorange;
+    font-size: 30;
+}
+
+.bgDark{
+    background-color:darkseagreen;
+    text-align:center;
+    color:bisque;
+}
+
+a{
+    color:aliceblue;
+    font-size:30;
+    font-family: fantasy
+}
+
+a:hover{
+    color:deeppink;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 100;
+}
+
+h2{
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+font-size: 35;
+}
+
+p{
+    font-family: "Bebas Neue", sans-serif;
+    color: aliceblue
+}

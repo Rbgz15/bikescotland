@@ -1,0 +1,33 @@
+<html>
+
+<head>
+<title>Bike Scotland</title>
+<link href="styles.css" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">  
+    
+</head>
+
+<body>
+    
+<img src="Bike%20Scotland%20Banner.jpg"width="1000px">
+   
+
+<img src="Bike%20Scotland.jpg"width="500px">
+
+
+    
+]
+    
+<br>
+
+<a href="index.html">Home Page</a>    
+<a href="#">Racing Bikes</a>
+<a href="#">Mountain Bikes</a>
+    
+</body>
+    
+
+</html>
